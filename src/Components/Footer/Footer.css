@@ -1,0 +1,12 @@
+
+/* Footer */
+.footer {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  background-color: #ff6b6b;
+  color: white;
+  text-align: center;
+  padding: 10px ;
+ 
+}

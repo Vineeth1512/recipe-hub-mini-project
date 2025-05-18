@@ -1,0 +1,28 @@
+/* NotFound.css */
+
+.notfound-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+  background: linear-gradient(to right, #ffefba, #ffffff);
+  font-family: 'Poppins', sans-serif;
+}
+
+.error-code {
+  font-size: 8rem;
+  font-weight: 800;
+  color: #ff6b6b;
+}
+
+.error-text {
+  font-size: 2.5rem;
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.error-desc {
+  color: #666;
+  font-size: 1.1rem;
+  margin-bottom: 2rem;
+}
